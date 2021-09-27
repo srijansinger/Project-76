@@ -1,0 +1,13 @@
+.body{
+    background:linear-gradient(to bottom, #ffffff 0%, #99ff66 100%);
+    
+
+}
+h1{
+    text-align: center;
+    color: chartreuse;
+}
+img1{
+ height:200;
+     width:300;
+}
